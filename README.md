@@ -1,6 +1,6 @@
 ### Amateur developer working on a few small projects. 
 ### i like open source stuff 
-### My main programming language is Python, but I know a little lua, node.js and html. 
+### My main programming language is Python, but I know a little html and css.
 ### Feel free to email me at syskeyed[at]madlads.army
 
 ## check out danked, my latest project @ https://github.com/danked-sb/danked
