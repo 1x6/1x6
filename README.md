@@ -1,7 +1,7 @@
 ### Amateur developer working on a few small projects. 
 ### i like open source stuff 
 ### My main programming language is Python, but I know a little html and css.
-### Feel free to email me at `xeny@hypixel.one`
+### Feel free to email me at `xeny@hypixel.one` or dm me `xeny#0007`
 
 ## check out danked, my latest project @ https://github.com/danked-sb/danked
 
