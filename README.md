@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **xeny#7777 (823114239534170143)**
 
-- ⚡ Fun fact: **I speak English and spanish**
+- ⚡ Fun fact: **I speak English and Spanish**
 
 
 <h3 align="left">Connect with me ~</h3>
