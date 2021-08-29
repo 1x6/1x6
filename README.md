@@ -1,11 +1,36 @@
-### Amateur developer working on a few small projects. 
-### i like open source stuff 
-### My main programming language is Python, but I know a little html and css.
-### Feel free to email me at `xeny@seized.email` or dm me `xeny#7777`
+<h1 align="center">hey, i'm xeny</h1>
+<h3 align="center">a 13 y/o that enjoys anime, electronic music, coding and minecraft.</h3>
 
-## check out danked, my latest project @ https://github.com/danked-sb/danked
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1x6&label=Profile%20views&color=cdf0ea&style=flat-square" alt="xeny" /> </p>
 
-![](https://komarev.com/ghpvc/?username=1x6)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=1x6&count_private=true&hide=stars,prs)
+
+- 🔭 I’m currently working on: `literally nothing`
+
+- 🌱 I’m currently learning: **Japanese**
+
+- 📫 How to reach me: **xeny#7777 (823114239534170143)**
+
+- ⚡ Fun fact: **I speak English and spanish**
+
+
+<h3 align="left">Connect with me ~</h3>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/823114239534170143)](https://discord.com/users/823114239534170143)
+
+<h3 align="left">Social Media ~</h3>
+<a href="https://discord.com/users/823114239534170143">
+  <img align="left" alt="Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://keybase.io/xeny">
+  <img align="left" alt="Keybase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+</a>
+<a href="https://www.last.fm/user/syskeyed">
+  <img align="left" alt="Last.fm" width="20px" src="https://simpleicons.org/icons/lastdotfm.svg" />
+</a>
+<a href="https://open.spotify.com/user/xenyths">
+  <img align="left" alt="Spotify" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
+
+
 
