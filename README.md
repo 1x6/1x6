@@ -20,16 +20,16 @@
 
 <h3 align="left">Social Media ~</h3>
 <a href="https://discord.com/users/823114239534170143">
-  <img align="left" alt="Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord" width="20px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
 <a href="https://keybase.io/xeny">
-  <img align="left" alt="Keybase" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+  <img align="left" alt="Keybase" width="20px" src="https://simpleicons.org/icons/keybase.svg" />
 </a>
 <a href="https://www.last.fm/user/syskeyed">
   <img align="left" alt="Last.fm" width="20px" src="https://simpleicons.org/icons/lastdotfm.svg" />
 </a>
 <a href="https://open.spotify.com/user/xenyths">
-  <img align="left" alt="Spotify" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+  <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
 </a>
 
 
