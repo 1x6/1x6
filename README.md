@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me ~</h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/823114239534170143)](https://discord.com/users/823114239534170143)
+[![Discord](https://discord-prof.herokuapp.com/banner/823114239534170143.png)](https://discord.com/users/823114239534170143)
 
 <h3 align="left">Social Media ~</h3>
 <a href="https://discord.com/users/823114239534170143">
