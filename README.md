@@ -1,5 +1,5 @@
 <h1 align="center">hey, i'm xeny</h1>
-<h3 align="center">a 13 y/o that enjoys anime, electronic music, coding and minecraft.</h3>
+<h3 align="center">a 13 y/o that enjoys anime, music, coding and minecraft.</h3>
 
 <p align="center"> <img src="https://gpvc.arturio.dev/1x6" alt="xeny" /> </p>
 
