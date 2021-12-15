@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/1x6" alt="xeny" /> </p>
 
-
+<h3 align="center">if i make anything good, it probably doesn't go on github 'cause of skids lmao</h3>
 
 - 🔭 I’m currently working on: `literally nothing`
 
