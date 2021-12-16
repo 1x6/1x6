@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Japanese**
 
-- 📫 How to reach me: **xeny#0001 (823114239534170143)**
+- 📫 How to reach me: **xeny#0095 (913835163383890013)**
 
 - ⚡ Fun fact: **I speak English and Spanish**
 
