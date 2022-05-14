@@ -29,5 +29,5 @@
   <img align="left" alt="Spotify" width="20px" src="https://simpleicons.org/icons/spotify.svg" />
 </a>
 
-
+![stats](https://github-readme-stats.vercel.app/api?username=1x6&show_icons=true&theme=radical)
 
